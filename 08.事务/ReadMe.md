@@ -17,4 +17,4 @@
     4. 可串行化 ( Serializable )
 
 ## 隔离级别示意图
-![流程示意图](imgs/mysql-08-01.jpg) ![流程示意图](imgs/mysql-08-02.jpg) ![流程示意图](imgs/mysql-08-03.jpg) ![流程示意图](imgs/mysql-08-04.jpg)
+![流程示意图](imgs/mysql-08-05.jpg) ![流程示意图](imgs/mysql-08-02.jpg) ![流程示意图](imgs/mysql-08-03.jpg) ![流程示意图](imgs/mysql-08-04.jpg)
