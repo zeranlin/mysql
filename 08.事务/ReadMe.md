@@ -18,9 +18,4 @@
 
 ## 隔离级别示意图
 
-![流程示意图](imgs/mysql-08-01.png)
-
-
-
-
 ![流程示意图](imgs/mysql-08-05.jpg) ![流程示意图](imgs/mysql-08-02.jpg) ![流程示意图](imgs/mysql-08-03.jpg) ![流程示意图](imgs/mysql-08-04.jpg)
